@@ -8,6 +8,7 @@
  *      This program reads and tally up data in accordance with the criteria.
  *      Please refer to the official format for the detailed information about the data types.
  *      The data to be fed must be a tab-delimited file, either csv or text.
+ *		***** abstract version *****
 *****/
 
 
